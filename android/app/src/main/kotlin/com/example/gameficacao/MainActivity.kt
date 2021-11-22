@@ -1,4 +1,4 @@
-package com.example.gameficacao
+package com.gameficacao
 
 import io.flutter.embedding.android.FlutterActivity
 

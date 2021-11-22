@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642989135969",
+    "project_id": "gameficacao-41fa8",
+    "storage_bucket": "gameficacao-41fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642989135969:android:a9b15c7ba79a57a6a7b220",
+        "android_client_info": {
+          "package_name": "com.gameficacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642989135969-8he6vk2o8rq5g0tfvtsgeem3kok4kt7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsjuskTUdBvR9mY8h5kGyjaoyx46XKVG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642989135969-8he6vk2o8rq5g0tfvtsgeem3kok4kt7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
