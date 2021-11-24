@@ -46,5 +46,5 @@ app.*.map.json
 /android/app/release
 
 #Firebase keys
-**\ios\GoogleService-Info.plist
-**\android\app\build.gradle
+#**\ios\GoogleService-Info.plist
+#**\android\app\build.gradle
